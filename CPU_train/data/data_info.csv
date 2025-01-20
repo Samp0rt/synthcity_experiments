@@ -1,0 +1,19 @@
+df_name,target_name,task_type,numeric_cols_indxs,row_number,df_test_len
+560_bodyfat,target,regression,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]",201,51
+562_cpu_small,target,regression,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]",6553,1639
+adult,income,classification,"[0, 2, 4, 10, 11, 12]",26049,6512
+breast_cancer,target,classification,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]",455,114
+credit_g,target,classification,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]",800,200
+diabetes,target,regression,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]",353,89
+heloc_dataset_v1,RiskPerformance,classification,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]",8367,2092
+iris,target,classification,"[0, 1, 2, 3]",120,30
+magic04,class,classification,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]",15216,3804
+nursery,target,classification,"[0, 1, 2, 3, 4, 5, 6, 7]",10366,2592
+online_shoppers_intention,Revenue,classification,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14]",9864,2466
+page_blocks,target,classification,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]",4378,1095
+pendigits,target,classification,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]",8793,2199
+phoneme,target,classification,"[0, 1, 2, 3, 4]",4323,1081
+seattle_housing,price,regression,"[0, 1, 2, 4, 6]",1613,403
+travel,Target,classification,"[0, 3]",763,191
+us_location,bird,classification,"[1, 2]",16320,4080
+wine,target,classification,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]",142,36

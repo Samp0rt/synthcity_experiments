@@ -1,0 +1,19 @@
+dataset,rows,columns,total values,task,multiclass target
+pendigits,10992,17,186864,Classification,yes
+page_blocks,5473,11,60203,Classification,yes
+magic04,19020,11,209220,Classification,no
+nursery,12958,9,116622,Classification,yes
+online_shoppers_intention,12330,18,221940,Classification,no
+breast_cancer,569,31,17639,Classification,no
+us_location,20400,5,102000,Classification,yes
+adult,48842,15,732630,Classification,no
+travel,954,7,6678,Classification,no
+phoneme,5404,6,32424,Classification,no
+iris,150,5,750,Classification,yes
+wine,178,14,2492,Classification,yes
+heloc_dataset_v1,10459,24,251016,Classification,no
+credit_g,1000,21,21000,Classification,no
+560_bodyfat,252,15,3780,Regression,-
+562_cpu_small,8192,13,106496,Regression,-
+seattle_housing,2521,8,20168,Regression,-
+diabetes,442,11,4862,Regression,-

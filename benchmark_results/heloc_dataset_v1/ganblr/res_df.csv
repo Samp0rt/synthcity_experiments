@@ -1,0 +1,14 @@
+,min,max,mean,stddev,median,iqr,rounds,errors,durations,direction
+sanity.data_mismatch.score,0.96,0.96,0.96,0.0,0.96,0.0,5,0,0.0,minimize
+sanity.common_rows_proportion.score,0.0,0.0,0.0,0.0,0.0,0.0,5,0,0.01,minimize
+sanity.nearest_syn_neighbor_distance.mean,0.0,0.0,0.0,0.0,0.0,0.0,5,0,0.0,minimize
+sanity.close_values_probability.score,1.0,1.0,1.0,0.0,1.0,0.0,5,0,0.0,maximize
+sanity.distant_values_probability.score,0.0,0.0,0.0,0.0,0.0,0.0,5,0,0.0,minimize
+stats.chi_squared_test.marginal,0.0,0.0,0.0,0.0,0.0,0.0,5,0,0.01,maximize
+stats.inv_kl_divergence.marginal,1.0,1.0,1.0,0.0,1.0,0.0,5,0,0.01,maximize
+stats.ks_test.marginal,,,,,,,5,0,0.02,maximize
+privacy.k-anonymization.gt,999.0,999.0,999.0,0.0,999.0,0.0,5,0,0.0,maximize
+privacy.k-anonymization.syn,999.00000001,999.00000001,999.0000000100001,1.1368683772161603e-13,999.00000001,0.0,5,0,0.0,maximize
+privacy.k-map.score,0.0,0.0,0.0,0.0,0.0,0.0,5,0,0.02,maximize
+privacy.distinct l-diversity.gt,999.0,999.0,999.0,0.0,999.0,0.0,5,0,0.0,maximize
+privacy.distinct l-diversity.syn,999.00000001,999.00000001,999.0000000100001,1.1368683772161603e-13,999.00000001,0.0,5,0,0.0,maximize

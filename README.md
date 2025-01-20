@@ -11,10 +11,11 @@ To repeat experiments on generating synthetic data for models that require GPU c
 docker build -t <image_name> .
 ```
 
+Docker will automatically install all the necessary libraries from the file [requirements.txt](https://github.com/Samp0rt/synthcity_experiments/blob/main/synth_tests/requirements.txt) while building image.
+
 ```bash
 docker run -it -d --name <container_name> <image_name>
 ```
-Docker will automatically install all the necessary libraries from the file [requirements.txt](https://github.com/Samp0rt/synthcity_experiments/blob/main/synth_tests/requirements.txt) while building image.
 
 ## 🏭 Generating data
 ### CPU
